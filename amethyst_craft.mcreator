@@ -1,0 +1,170 @@
+{
+  "mod_elements": [
+    {
+      "name": "AmethystPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_pickaxe"
+    },
+    {
+      "name": "AmethystAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_axe"
+    },
+    {
+      "name": "AmethystSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword"
+    },
+    {
+      "name": "AmethystShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shovel"
+    },
+    {
+      "name": "AmethystHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe"
+    },
+    {
+      "name": "AmethystPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_pickaxe_recipe"
+    },
+    {
+      "name": "AmethystAxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_axe_recipe"
+    },
+    {
+      "name": "AmethystSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_recipe"
+    },
+    {
+      "name": "AmethystShovelRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shovel_recipe"
+    },
+    {
+      "name": "AmethystHoeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe_recipe"
+    },
+    {
+      "name": "AmethystArmor",
+      "type": "armor",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmethystArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_helmet_recipe"
+    },
+    {
+      "name": "AmethystArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_body_recipe"
+    },
+    {
+      "name": "AmethystArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_leggings_recipe"
+    },
+    {
+      "name": "AmethystArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.amethyst_craft.amethyst_shovel": "Amethyst Shovel",
+      "item.amethyst_craft.amethyst_armor_boots": "Amethyst Boots",
+      "item.amethyst_craft.amethyst_pickaxe": "Amethyst Pickaxe",
+      "item.amethyst_craft.amethyst_armor_leggings": "Amethyst Leggings",
+      "item.amethyst_craft.amethyst_armor_helmet": "Amethyst Helmet",
+      "item.amethyst_craft.amethyst_sword": "Amethyst Sword",
+      "item.amethyst_craft.amethyst_axe": "Amethyst Axe",
+      "item.amethyst_craft.amethyst_hoe": "Amethyst Hoe",
+      "item.amethyst_craft.amethyst_armor_chestplate": "Amethyst Chestplate"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "amethyst_craft",
+    "modName": "Amethyst Craft",
+    "version": "1.0.0",
+    "description": "Amethyst Craft",
+    "author": "TLStudio",
+    "websiteURL": "https://github.com/TLStudio2019/Amethyst-Craft",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "amethyst_craft_icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Thanks TLStudio",
+    "modElementsPackage": "net.mcreator.amethystcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
