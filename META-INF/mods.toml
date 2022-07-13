@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="amethyst_craft"
+version="1.0.0"
+displayName="Amethyst Craft"
+credits="Thanks TLStudio"
+displayURL="https://github.com/TLStudio2019/Amethyst-Craft"
+logoFile="logo.png"
+authors="TLStudio"
+description='''
+Amethyst Craft
+'''
+
+[[dependencies.amethyst_craft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
